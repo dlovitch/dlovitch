@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+```mermaid
+  graph TD;
+      This-->Is;
+      This-->A;
+      Is-->Test
+      A-->Test;
+```
